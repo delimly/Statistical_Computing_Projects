@@ -1,4 +1,4 @@
-# StatsCompProjects
+# Statistical Computing Projects
 Projects that were done during my tenure at the University Of Southampton. 
 
 In this repository you will find R-Projects that demonstrate my profeciency in the R Programming language.
