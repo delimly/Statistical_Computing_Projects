@@ -5,3 +5,5 @@ In this repository you will find R-Projects that demonstrate my profeciency in t
 In addition, the focus of these projects (of course) is mainly Statistics with some projects focusing on other areas of mathematics. 
 
 For some, the focus is on Using Monte-Carlo Statistical Methods to producing samples. 
+
+In Total there are N/A projects.
